@@ -23,11 +23,13 @@ https://mdbootstrap.com/forums/forum/support/
 
 Contact:
 office@mdbootstrap.com
-
-![GitHub Logo](/demo.gif)
+## SignUp FORM
+![GitHub Logo](demo.gif)
+## Contact Form
+![Contact_Form](contact_form.gif)
 
 # How to use MD Bootstrap
-Copy paste this lines of code into your index.html to get started thats all you need to import Material Bootstrap into your project
+Copy paste this lines of code into your index.html to get started and download the css and js folder from this repository add them to your project thats all you need to import Material Bootstrap into your project.
 
 ```
 <!DOCTYPE html>
